@@ -48,12 +48,22 @@ Prodi  : Teknik Informatika - TI08
 │   │   ├── blog-1.jpg
 │   │   ├── blog-2.jpg
 │   │   ├── blog-3.jpg
+│   │   ├── cabang
+│   │   │   ├── travel1.jpg
+│   │   │   ├── travel2.png
+│   │   │   └── travel3.jpg
 │   │   ├── dots.svg
 │   │   ├── favicon.png
 │   │   ├── footer-bg.png
 │   │   ├── header-hero.png
 │   │   ├── logo-2.png
 │   │   ├── logo.png
+│   │   ├── promosi
+│   │   │   ├── bali.jpg
+│   │   │   ├── bromo.jpeg
+│   │   │   ├── dieng.jpeg
+│   │   │   ├── jogja.jpg
+│   │   │   └── lombok.jpg
 │   │   ├── services-shape-1.png
 │   │   ├── services-shape-2.png
 │   │   ├── services-shape-3.png
